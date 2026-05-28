@@ -40,6 +40,7 @@ force applied.
 # GRAPH:
 <img width="1216" height="1600" alt="WhatsApp Image 2026-05-28 at 11 43 07 PM" src="https://github.com/user-attachments/assets/48c93f52-24ac-4544-b6ac-883c02a83f5f" />
 
+<img width="1224" height="1600" alt="image" src="https://github.com/user-attachments/assets/87a9bae3-0776-4ae0-bd15-09f120a9393a" />
 
 
 # RESULT
