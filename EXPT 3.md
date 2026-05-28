@@ -41,6 +41,7 @@ i)Resistance-Temperature for RTD
 
 
 # GRAPH:
+<img width="1208" height="1599" alt="WhatsApp Image 2026-05-28 at 11 43 05 PM (1)" src="https://github.com/user-attachments/assets/a8a39dbf-2acb-4ccd-b340-fe26b9eaab2d" />
 
 
 # RESULT
