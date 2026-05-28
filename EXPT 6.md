@@ -18,7 +18,7 @@ To measure unknown value of low resistance by balancing the Kelvin’s double br
 # CIRCUIT DIAGRAM
 
 <img width="794" height="664" alt="image" src="https://github.com/user-attachments/assets/a601adc1-6618-4fb5-a73f-b465ebd69e34" />
-
+ 
 
 # THEORY
 It is a modification of Wheatstone bridge. In the figure P and Q are the first set of ratio arms. P and Q
